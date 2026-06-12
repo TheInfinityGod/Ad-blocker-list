@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: bnoLD3nvyiS5bfLrO+wH4A
 ! Version: 202606120325
-! Title: Fanboy's Annoyance List
+! Title: Fanboy's Annoyance List00
 ! Last modified: 2026-06-12 03:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
@@ -54657,7 +54657,6 @@ ask.fm##body:style(overflow: auto !important)
 cosmos.so##+js(set, Object.prototype.disablePaginationLimitForLoggedOut, true)
 ! reddit.com (mobile)
 reddit.com###xpromo-small-header.mr-xs
-reddit.com##+js(aeld, block-body-scrolling)
 reddit.com##+js(rc, scroll-disabled, body, stay)
 reddit.com##+js(set-local-storage-item, xpromo-consolidation, 1)
 amp.reddit.com##.AppSelectorModal__body
